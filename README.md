@@ -31,3 +31,14 @@ GUI: Tkinter
 
 Jupyter Notebook inside vs code
 
+
+
+<img width="511" height="453" alt="Screenshot 2025-10-03 010831" src="https://github.com/user-attachments/assets/dc0590a6-5cb6-4a88-a14f-2bea264bfe0f" />
+
+
+
+
+<img width="521" height="450" alt="Screenshot 2025-10-03 010929" src="https://github.com/user-attachments/assets/21f1e38d-3345-435a-be8e-70dfcf5a7c4a" />
+
+
+
