@@ -19,21 +19,25 @@ A simple Tkinter desktop application is provided, allowing users to input review
 
 🖥️ Language:
 
--Python 🐍
+Python 🐍
 
-📚 Libraries & Frameworks:
+---
 
--NLP & ML: NLTK / TextBlob / Scikit-learn
+📚 **Libraries & Frameworks:**
 
--Data Handling: Pandas, NumPy
+1.NLP & ML: NLTK / TextBlob / Scikit-learn
 
--Visualization: Matplotlib, Seaborn
+2.Data Handling: Pandas, NumPy
 
--GUI: Tkinter
+3.Visualization: Matplotlib, Seaborn
+
+4.GUI: Tkinter
+
+---
 
 ⚙️ **Tools:**
 
--Jupyter Notebook inside vs code
+Jupyter Notebook inside vs code
 
 ---
 
