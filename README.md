@@ -7,7 +7,7 @@ This project analyzes restaurant customer reviews and classifies them as Positiv
 A simple Tkinter desktop application is provided, allowing users to input reviews and get instant sentiment predictions.
 
 ---
-🚀 Features
+🚀 **Features**
 
 ✨ Text preprocessing (tokenization, stopword removal, stemming/lemmatization)
 ✨ Machine Learning model for sentiment classification
@@ -15,7 +15,7 @@ A simple Tkinter desktop application is provided, allowing users to input review
 ✨ (Optional) Sentiment distribution visualization using Matplotlib
 
 ---
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 🖥️ Language:
 
@@ -31,7 +31,7 @@ A simple Tkinter desktop application is provided, allowing users to input review
 
 -GUI: Tkinter
 
-⚙️ Tools:
+⚙️ **Tools:**
 
 -Jupyter Notebook inside vs code
 
